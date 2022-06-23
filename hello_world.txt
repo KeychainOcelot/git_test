@@ -1,0 +1,1 @@
+ayy lmao this is a txt file that I'm writing so I can push it as part of the git tutorial on odin project
